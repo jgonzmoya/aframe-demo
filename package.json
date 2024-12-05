@@ -1,0 +1,11 @@
+{
+  "name": "aframe_vr_demo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "deploy": "gh-pages -d ."
+  },
+  "dependencies": {
+    "gh-pages": "^6.2.0"
+  }
+}
